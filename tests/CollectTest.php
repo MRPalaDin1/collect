@@ -1,7 +1,7 @@
 <?php
 
-require_once 'C:\Users\vasyu\PhpstormProjects\collect\src\Collect.php';
-require_once 'C:\Users\vasyu\PhpstormProjects\collect\src\helpers.php';
+require_once 'C:\Users\pavel\WebstormProjects\collect\src\Collect.php';
+require_once 'C:\Users\pavel\WebstormProjects\collect\src\helpers.php';
 
 use PHPUnit\Framework\TestCase;
 
